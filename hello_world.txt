@@ -1,0 +1,4 @@
+Started git learning from TOP (The Odin Project) going pritty cool and easy for now.
+I am learning the basic commands and how to use git and github.
+I am also learning about version control and how to manage my code with git.
+I am excited to learn more about git and how to use it effectively in my projects.
